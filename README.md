@@ -17,7 +17,7 @@
 ## Training
 - Lingkungan training: laptop lokal (GPU RTX 4060)
 - Model: yolov8n
-- Grafik: ![Grafik Hasil Training](runs/detect/train-4/results.png)
+- Grafik: ![Grafik Hasil Training](results.png)
 
 ## Pengembangan Kode
 Daftar perubahan terhadap kode dasar, beserta alasan dan pengaruhnya terhadap hasil:

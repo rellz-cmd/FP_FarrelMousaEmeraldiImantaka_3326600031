@@ -39,9 +39,9 @@ from ultralytics import YOLO
 
 # ==================== CONFIGURATION ====================
 # Dataset (Roboflow)
-ROBOFLOW_WORKSPACE = "workspace-name"  # from the dataset URL
-ROBOFLOW_PROJECT = "project-name"      # from the dataset URL
-ROBOFLOW_VERSION = 1                   # dataset version number on Roboflow
+ROBOFLOW_WORKSPACE = "rellz1207s-workspace"  # from the dataset URL
+ROBOFLOW_PROJECT = "penship-object-detetction"      # from the dataset URL
+ROBOFLOW_VERSION = 2                   # dataset version number on Roboflow
 DATASET_DIR = "dataset"                # download destination folder
 
 # Training
